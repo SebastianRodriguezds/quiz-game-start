@@ -14,10 +14,3 @@ quiz = QuizBrain(questions_list)
 while quiz.still_has_questions():
   quiz.next_question()
 quiz.final_score()
-
-
-
-
-
-  
-  
